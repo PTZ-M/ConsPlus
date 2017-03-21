@@ -1,0 +1,6 @@
+User-agent: *
+Host: http://conslp.onego.ru
+Sitemap: http://conslp.onego.ru/sitemap.xml
+Allow: /
+Disallow: /consultant/faq
+Disallow: /taxcom/faq
